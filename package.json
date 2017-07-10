@@ -1,0 +1,25 @@
+{
+  "name": "hmrc",
+  "version": "1.0.0",
+  "description": "Sample app using GDS guidelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebKolla/hmrc.git"
+  },
+  "keywords": [
+    "HMRC"
+  ],
+  "author": "Chin Perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebKolla/hmrc/issues"
+  },
+  "homepage": "https://github.com/WebKolla/hmrc#readme",
+  "dependencies": {
+    "govuk_frontend_toolkit": "^6.0.4"
+  }
+}
