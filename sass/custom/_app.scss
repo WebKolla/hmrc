@@ -1,0 +1,15 @@
+.spacing-left {
+  display: inline-block;
+  margin-bottom: em(10);
+  @include media(tablet) {
+      margin-left: em(30);
+  }
+}
+
+.report-a-problem-toggle {
+  margin-top: em(50);
+  @include core-14();
+  a{
+    color: $grey-1;
+  }
+}
